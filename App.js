@@ -28,7 +28,7 @@ import Ionicon from "react-native-vector-icons/Ionicons";
 
 const Stack = createNativeStackNavigator();
 const Drawer = createDrawerNavigator();
-
+//yes
 
 function Borgir ({}) {
   return(
